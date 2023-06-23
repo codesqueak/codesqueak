@@ -5,6 +5,7 @@
 
 </p>
 </h3>
+
 ### Coding
 [![Java](https://img.shields.io/badge/java-black?style=social&logo=openjdk)](https://github.com/codesqueak)
 [![Go](https://img.shields.io/badge/go-black?style=social&logo=go)](https://github.com/codesqueak)
@@ -55,16 +56,11 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codesqueak&theme=transparent" />
   </a>
   <a href="https://github.com/codesqueak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesqueak&hide=batchfile,shell&langs_count=10&card_width=699&hide_border=true&theme=transparent&layout=compact " />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesqueak&hide=batchfile,shell&langs_count=10&card_width=699&hide_border=true&theme=transparent&layout=compact"/>
   </a>
 </p>
 </details>
 
-<p align="center">
-  <a href="https://github.com/codesqueak">
-    <img src="https://komarev.com/ghpvc/?username=codesqueak&color=blue&style=flat)" />
-  </a>
-</p>
 <!--
 
 - 🔭 I’m currently working on ...
