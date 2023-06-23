@@ -7,21 +7,21 @@
 </h3>
 
 ### Coding
-[![Java](https://img.shields.io/badge/java-black?style=social&logo=openjdk)](https://github.com/codesqueak)
-[![Go](https://img.shields.io/badge/go-black?style=social&logo=go)](https://github.com/codesqueak)
-[![Python](https://img.shields.io/badge/python-black?style=social&logo=python)](https://github.com/codesqueak)
-[![Scala](https://img.shields.io/badge/scala-black?style=social&logo=scala)](https://github.com/codesqueak)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=social&logo=javascript)](https://github.com/codesqueak)
-[![SQL](https://img.shields.io/badge/sql-black?style=social&logo=mysql)](https://github.com/codesqueak)
+[![Java](https://img.shields.io/badge/Java-black?style=social&logo=openjdk)](https://github.com/codesqueak)
+[![Go](https://img.shields.io/badge/Go-black?style=social&logo=go)](https://github.com/codesqueak)
+[![Python](https://img.shields.io/badge/Python-black?style=social&logo=python)](https://github.com/codesqueak)
+[![Scala](https://img.shields.io/badge/Scala-black?style=social&logo=scala)](https://github.com/codesqueak)
+[![JavaScript](https://img.shields.io/badge/Javascript-black?style=social&logo=javascript)](https://github.com/codesqueak)
+[![SQL](https://img.shields.io/badge/SQL-black?style=social&logo=mysql)](https://github.com/codesqueak)
 ### Running
-[![Spring Boot](https://img.shields.io/badge/spring%20boot-black?style=social&logo=springboot)](https://github.com/codesqueak)
-[![Docker](https://img.shields.io/badge/docker-black?style=social&logo=docker)](https://hub.docker.com/u/codesqueak)
-[![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=social&logo=kubernetes)](https://hub.docker.com/u/codesqueak)
-[![Amazon AWS](https://img.shields.io/badge/amazonaws-black?style=social&logo=amazonaws)](https://hub.docker.com/u/codesqueak)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=social&logo=springboot)](https://github.com/codesqueak)
+[![Docker](https://img.shields.io/badge/Docker-black?style=social&logo=docker)](https://hub.docker.com/u/codesqueak)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=social&logo=kubernetes)](https://hub.docker.com/u/codesqueak)
+[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=social&logo=amazonaws)](https://hub.docker.com/u/codesqueak)
 ### Displaying
-[![React](https://img.shields.io/badge/react-black?style=social&logo=react)](https://github.com/codesqueak)
-[![HTML5](https://img.shields.io/badge/html5-black?style=social&logo=html5)](https://hub.docker.com/u/codesqueak)
-[![CSS3](https://img.shields.io/badge/css3-black?style=social&logo=css3)](https://hub.docker.com/u/codesqueak)
+[![React](https://img.shields.io/badge/React-black?style=social&logo=react)](https://github.com/codesqueak)
+[![HTML5](https://img.shields.io/badge/HTML5-black?style=social&logo=html5)](https://hub.docker.com/u/codesqueak)
+[![CSS3](https://img.shields.io/badge/CSS3-black?style=social&logo=css3)](https://hub.docker.com/u/codesqueak)
 ### At Rest
 [![Postgresql](https://img.shields.io/badge/PostgreSQL-black?style=social&logo=postgresql)](https://github.com/codesqueak)
 [![mongodb](https://img.shields.io/badge/MongoDB-black?style=social&logo=mongodb)](https://github.com/codesqueak)
@@ -34,13 +34,13 @@
 [![mqtt](https://img.shields.io/badge/MQTT-black?style=social&logo=mqtt)](https://github.com/codesqueak)
 [![amazonsqs](https://img.shields.io/badge/Amazon%20SQS-black?style=social&logo=amazonsqs)](https://github.com/codesqueak)
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=social&logo=Linux)](https://github.com/codesqueak)
+[![Linux](https://img.shields.io/badge/Linux-black?style=social&logo=Linux)](https://github.com/codesqueak)
 [![Windows](https://img.shields.io/badge/Windows-black?style=social&logo=Windows)](https://github.com/codesqueak)
-[![DOS](https://img.shields.io/badge/dos-black?style=social&logo=dos)](https://github.com/codesqueak)
+[![DOS](https://img.shields.io/badge/DOS-black?style=social&logo=dos)](https://github.com/codesqueak)
 [![CP/M](https://img.shields.io/badge/CP%2FM-black?style=social&logo=cpm)](https://github.com/codesqueak)
 ### Other ...
-[![Kicad](https://img.shields.io/badge/kicad-black?style=social&logo=kicad)](https://github.com/codesqueak)
-[![TOGAF](https://img.shields.io/badge/kicad-black?style=social&logo=kicad)](https://github.com/codesqueak)
+[![Kicad](https://img.shields.io/badge/Kicad-black?style=social&logo=kicad)](https://github.com/codesqueak)
+[![TOGAF](https://img.shields.io/badge/TOGAF-black?style=social&logo=togaf)](https://github.com/codesqueak)
 [![CITP](https://img.shields.io/badge/CITP-black?style=social&logo=citp)](https://github.com/codesqueak)
 
 
